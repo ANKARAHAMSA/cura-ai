@@ -2,8 +2,8 @@
 
 | Version | Milestone | Status |
 | --- | --- | --- |
-| v0.1.0-alpha | Foundation and planning | In progress |
-| v0.2.0 | UI design | Planned |
+| v0.1.0-alpha | Foundation and planning | Complete |
+| v0.2.0 | UI design | In progress |
 | v0.3.0 | Backend foundation | Planned |
 | v0.4.0 | Authentication | Planned |
 | v0.5.0 | News collection | Planned |
@@ -17,7 +17,10 @@
 
 - [x] Product identity and initial vision
 - [x] Foundation repository structure and planning documents
-- [ ] UI/UX design
-- [ ] System and database design
+- [x] MVP scope and acceptance criteria
+- [x] Core flow and MVP screen definition
+- [x] Initial system architecture
+- [ ] Low-fidelity wireframes
+- [ ] Database design
 - [ ] API specification
 - [ ] Implementation and deployment
