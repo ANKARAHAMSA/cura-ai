@@ -20,7 +20,7 @@
 - [x] MVP scope and acceptance criteria
 - [x] Core flow and MVP screen definition
 - [x] Initial system architecture
-- [ ] Low-fidelity wireframes
+- [x] Low-fidelity wireframes: feed, article detail, and settings
 - [ ] Database design
 - [ ] API specification
 - [ ] Implementation and deployment
