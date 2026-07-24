@@ -22,5 +22,5 @@
 - [x] Initial system architecture
 - [x] Low-fidelity wireframes: feed, article detail, and settings
 - [x] Database design and initial ERD
-- [ ] API specification
+- [x] API specification
 - [ ] Implementation and deployment
