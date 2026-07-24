@@ -21,6 +21,6 @@
 - [x] Core flow and MVP screen definition
 - [x] Initial system architecture
 - [x] Low-fidelity wireframes: feed, article detail, and settings
-- [ ] Database design
+- [x] Database design and initial ERD
 - [ ] API specification
 - [ ] Implementation and deployment
