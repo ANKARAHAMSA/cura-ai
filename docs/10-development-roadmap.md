@@ -24,3 +24,5 @@
 - [x] Database design and initial ERD
 - [x] API specification
 - [ ] Implementation and deployment
+
+For a concise project handoff, see [continuation handoff](11-continuation-handoff.md).
